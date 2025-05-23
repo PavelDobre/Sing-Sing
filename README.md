@@ -1,7 +1,5 @@
 # Secret Sing-Box
 
-![logo](https://github.com/user-attachments/assets/33ab0dac-ed6a-4254-8386-c4b09bf9a312)
-
 [**English version**](https://github.com/A-Zuro/Secret-Sing-Box/blob/main/Docs/README-EN.md)
 
 ### Простая настройка прокси с использованием протоколов Trojan и VLESS и терминированием TLS на NGINX или HAProxy

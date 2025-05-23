@@ -88,6 +88,3 @@ warp-cli registration license CMD5m479-Y5hS6y79-U06c5mq9
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/A-Zuro/Secret-Sing-Box/master/Scripts/sb-pc-linux-ru.sh)
 ```
-
-### Звёзды по времени:
-[![Stargazers over time](https://starchart.cc/A-Zuro/Secret-Sing-Box.svg?variant=adaptive)](https://starchart.cc/A-Zuro/Secret-Sing-Box)
